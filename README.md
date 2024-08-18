@@ -1,1 +1,1 @@
-# Data-Analysis
+The goal of this project was to perform a comprehensive data analysis workflow by leveraging Python’s pandas library for initial data processing, and then using SQL Server for advanced querying and analysis. This approach combines the strengths of Python for data manipulation with the powerful querying capabilities of SQL Server.
